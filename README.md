@@ -1,3 +1,4 @@
 # lineage2scrydepatch
-scryde patch
 ![pic](pic1.png)
+
+changed animations, skillgrp adapted for last client update
