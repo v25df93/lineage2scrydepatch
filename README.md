@@ -1,3 +1,3 @@
 # lineage2scrydepatch
 scryde patch
-!(pic1.png)
+[pic](pic1.png)
